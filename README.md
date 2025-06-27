@@ -11,7 +11,7 @@ Deposit money into an account Withdraw money with balance check
  
 Technologies Used
 File handling
-Pickle module** for binary data storage
+Pickle module for binary data storage
 Custom Exception Handling
 
 Account Data Format
