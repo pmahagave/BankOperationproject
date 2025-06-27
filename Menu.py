@@ -1,0 +1,13 @@
+def menu():
+    print("-"*60)
+    print("\t\tPRIYA CO-OPERATIVE BANKING INFORMATION SYSTEM")
+    print("-"*60)
+    print("\t\t1.OPEN ACCOUNT")
+    print("\t\t2.DEPOSIT AMOUNT")
+    print("\t\t3.WITHDRAW AMOUNT")
+    print("\t\t4.SEARCH CUSTOMER DETAILS")
+    print("\t\t5.VIEW ALL CUSTOMERS DETAILS")
+    print("\t\t6.VIEW SINGLE CUSTOMER DETAILS")
+    print("\t\t7.FUNDS TRANSFER")
+    print("\t\t8.EXIT")
+    print("-"*60)
